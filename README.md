@@ -1,4 +1,10 @@
 # AV_Driving_Cycles
+
+## Developers
+
+- Xucheng Duan (Technical University of Munich): Code creating and detailing, Code documentation
+- Ferdinand Schockenhoff (Institute for Automotive Technology, Technical University of Munich): Creation of research topic, Conceptualization, Supervison, Code documentation
+
 Driving Cycles for specific driving style properties(comfort, consumption, fastness, subjective safety) of AV
 
 
