@@ -1,44 +1,7 @@
 # AV_Driving_Cycles
-
-## Developers
-
+This tool develops driving cycles for specific driving style properties(comfort, consumption, fastness, subjective safety) of AVs.
 
 
-Driving Cycles for specific driving style properties(comfort, consumption, fastness, subjective safety) of AV
-
-
-Fahrzyklen für spezifische Fahrstileigenschaften (Komfort, Verbrauch, Schnelligkeit, subj. Sicherheit) von AV - Verknüpfung einer ACC- mit einer Verkehrsimulation, um Verhalten des Egofahrzeugs zu Vorderfahrzeugen zu simulieren
-
-
-LDS Adrian zitieren
-One Paragraph of project description goes here
-  
-## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-  
-### Prerequisites
-
-- Control System Toolbox,
-- Statistics and Machine Learning Toolbox,
-- Simulink,
-- Simulink Real-Time,
-- Stateflow
-  
-### Installing
-A step by step series of examples that tell you how to get a development env running
-Say what the step will be
-  
-```
-Give the example
-```
-  
-And repeat
-  
-```
-until finished
-```
-  
-End with an example of getting some data out of the system or using it for a little demo
   
 ## Running the Model/Code
 Explain how to run the code
@@ -47,14 +10,22 @@ Explain how to run the code
 Give an example
 ```
   
+  
 ## Deployment
   
 * [Matlab](https://de.mathworks.com/products/matlab.html) R2020b
   
+## Prerequisites
+
+- Control System Toolbox,
+- Statistics and Machine Learning Toolbox,
+- Simulink,
+- Simulink Real-Time,
+- Stateflow
   
 ## Contributing and Support
   
-We are strongly encouraged to improve quality and functionality of AV_Driving_Cycles. If you have any Feedback don't hesitate to contact the authors or the group leader of the vehicle concept research group at FTM ot the TUM.
+We are strongly encouraged to improve quality and functionality of AV_Driving_Cycles. If you have any Feedback don't hesitate to contact the authors or the group leader of the vehicle concept research group at FTM of the TUM.
 
 ## Versioning
   
@@ -69,4 +40,6 @@ This project is licensed under the LGPL License - see the LICENSE.md file for de
  
  
 ## Sources
-Used Sources, mentioning of related Papers
+We used the LDS of König et al.:
+* Repository: https://github.com/TUMFTM/Modular-Quasi-Static-Longitudinal-Simulation-for-BEV
+* Paper: Adrian König, Lorenzo Nicoletti et. al. „An Open-Source Modular Quasi-Static Longitudinal Simulation for Full Electric Vehicles,“ in 15th International Conference on Ecological Vehicles and Renewable Energies, Monte-Carlo, Monaco, 2020, pp. 1–9, DOI: 10.1109/EVER48776.2020.9242981.  
