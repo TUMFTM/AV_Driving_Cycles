@@ -3,3 +3,12 @@ Driving Cycles for specific driving style properties(comfort, consumption, fastn
 
 
 Fahrzyklen für spezifische Fahrstileigenschaften (Komfort, Verbrauch, Schnelligkeit, subj. Sicherheit) von AV - Verknüpfung einer ACC- mit einer Verkehrsimulation, um Verhalten des Egofahrzeugs zu Vorderfahrzeugen zu simulieren
+
+
+
+Toolboxes:
+Control System Toolbox
+Statistics and Machine Learning Toolbox
+Simulink
+Simulink Real-Time
+Stateflow
