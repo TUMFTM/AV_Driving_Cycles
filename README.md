@@ -54,20 +54,18 @@ Give an example
   
 ## Contributing and Support
   
-Instruction of contributing to our code.
-How do we want people to reflect their changes to us?
-Explain how users get suppoert especialliy after the authors left the insitute.
-  
+We are strongly encouraged to improve quality and functionality of AV_Driving_Cycles. If you have any Feedback don't hesitate to contact the authors or the group leader of the vehicle concept research group at FTM ot the TUM.
+
 ## Versioning
   
-V1.0 XXX
+V1.0 initial public version of AV_Driving_Cycles
   
 ## Authors
 - Xucheng Duan (Technical University of Munich): Code creating and detailing, Code documentation
 - Ferdinand Schockenhoff (Institute for Automotive Technology, Technical University of Munich): Creation of research topic, Conceptualization, Supervison, Code documentation
   
 ## License
-This project is licensed under the LGPL License - see the LICENSE.md file for details
+This project is licensed under the LGPL License - see the LICENSE.md file for details.
  
  
 ## Sources
