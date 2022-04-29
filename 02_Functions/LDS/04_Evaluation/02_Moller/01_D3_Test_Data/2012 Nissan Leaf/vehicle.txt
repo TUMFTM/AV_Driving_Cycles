@@ -1,4 +1,0 @@
-Fully electric vehicle
-80KW AC synchronous traction motor
-24kWh lithium-ion battery
-3.3 kW onboard charger w/J1772 connector
