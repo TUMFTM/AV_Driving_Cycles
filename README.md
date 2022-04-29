@@ -8,7 +8,7 @@ It is an ACC simulation of an AV that follows leading vehicle that drives one of
 
 To start the simulation, you have to run the GUI  
 ```
-GUI_AVDS.mlapp
+GUI_AVDC.mlapp
 ```
 You can find it in the folder
 ```
