@@ -1,0 +1,4 @@
+Motor: Permanent Magnet Synchronous AC: 80kW, 254 Nm, 10500 rpm max
+Battery: 24kWh, 360V Lithium-ion
+Final Drive Ratio of 7.9377:1
+Model included heat pump for increased HVAC system efficiency at varying temperatures

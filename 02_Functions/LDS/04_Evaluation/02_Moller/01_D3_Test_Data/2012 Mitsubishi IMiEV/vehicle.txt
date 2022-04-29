@@ -1,0 +1,3 @@
+Motor: Permanent Magnet Synchronous AC: 49kW, 196 Nm
+Battery: 16kWh, 330V Lithium-ion
+Final Drive Ratio of 7.065:1
