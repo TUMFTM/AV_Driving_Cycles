@@ -16,8 +16,9 @@ You can find it in the folder
 ```
 
 The GUI is shown in the following figure. The numbers 1-6 will explain its functionality.
-  
-![GUI AV Drving Cycles](https://user-images.githubusercontent.com/72914074/163174684-a651846f-a2d3-408a-bd62-d835054cb70f.png)
+
+![Abbildung README](https://user-images.githubusercontent.com/72914074/165939724-89926a19-bca9-4029-9989-593355b6cdff.png)
+
   
 
 The following description is brief. For a detailed explanation, please refer to the paper.
