@@ -1,3 +1,0 @@
-Compact Battery Electric Vehicle
-Motor: Permanent Magnet Synchronous AC, 107 kW, 250 Nm torque
-Battery: 23 kWh, 325V Nominal, Lithium-Ion
