@@ -1,0 +1,3 @@
+Battery Electric Vehicle
+Motor: Permanent Magnet Synchronous AC, 85kW (140hp), 443Nm (327 lb-ft) torque
+Battery: 19kWh, 363V Nominal,  Lithium-Ion
