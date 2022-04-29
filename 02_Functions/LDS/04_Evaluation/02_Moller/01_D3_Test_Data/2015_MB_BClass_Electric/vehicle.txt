@@ -1,3 +1,0 @@
-Battery Electric Vehicle
-Motor: asynchronous, 132 kW, 340 Nm
-Battery: 28 kWh, 32kWh w/Range Extending option on, Lithium-Ion
