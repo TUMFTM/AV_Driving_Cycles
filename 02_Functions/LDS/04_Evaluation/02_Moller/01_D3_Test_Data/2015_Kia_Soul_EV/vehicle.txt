@@ -1,3 +1,0 @@
-Battery Electric Vehicle
-Motor: Permanent Magnet Synchronous AC, 81 kW, 285 Nm
-Battery: 27 kWh, 360V Rated, Lithium-Ion Polymer
