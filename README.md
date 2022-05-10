@@ -30,7 +30,7 @@ This defines the mode of the simulation. Depending on this input the values of t
 The driving style of the AV is defined. The values of the properties comfort, fastness and (subjective) safety can be chosen. The property consumption is optimized in the given input. The interval of the values ranges from 5 to 10. Unfeasible combinations are highlighted as invalid and the next valid combinations are recommended.
 
 ### 3: Controller Parameters
-The controller parameters of the ACC controller are defined. If the Input mode is "Driving Style", this will be filled automatically. The parameters are set time gap (t_set), Coefficient for deceleration (K_brk), (P_a_acc), (P_v_acc), maximal acceleration (a_max), minimal jerk (j_min), (set_speed) und (ovt_tol).
+The controller parameters of the ACC controller are defined. If the Input mode is "Driving Style", this will be filled automatically. The parameters are Set time headways of ACC (t_set), Coefficient for deceleration (C_brk), P-coefficient of speed controller (P_a), P-coefficient of distance controller (P_v), Maximum acceleration of ACC (a_max), Maximum jerk of ACC (j_max), Coefficient for set speed (C_v,set) und Tolerance speed for overtaking (v_ovt_tol).
 
 ### 4: Traffic Settings
 The traffic settings define the other vehicles. The Traffic Cycle defines their driving behavior and the Traffic Interval the distance in seconds between the other vehicles.
