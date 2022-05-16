@@ -27,7 +27,7 @@ The following description is brief. For a detailed explanation, please refer to 
 This defines the mode of the simulation. Depending on this input the values of the driving style or the values of the Controller Parameters are the input of the simulation.
 
 ### 2: Drving Style
-The driving style of the AV is defined. The values of the properties comfort, fastness and (subjective) safety can be chosen. The property consumption is optimized in the given input. The interval of the values ranges from 5 to 10. Unfeasible combinations are highlighted as invalid and the next valid combinations are recommended.
+The driving style of the AV is defined. The values of the properties comfort, swiftness and (subjective) safety can be chosen. The property consumption is optimized in the given input. The interval of the values ranges from 5 to 10. Unfeasible combinations are highlighted as invalid and the next valid combinations are recommended.
 
 ### 3: Controller Parameters
 The controller parameters of the ACC controller are defined. If the Input mode is "Driving Style", this will be filled automatically. The parameters are Set time headways of ACC (t_set), Coefficient for deceleration (C_brk), P-coefficient of speed controller (P_a), P-coefficient of distance controller (P_v), Maximum acceleration of ACC (a_max), Maximum jerk of ACC (j_max), Coefficient for set speed (C_v,set) und Tolerance speed for overtaking (v_ovt_tol).
